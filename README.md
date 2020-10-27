@@ -16,7 +16,7 @@
 5. [Questions](#questions)
 
 ## **Installation:**
-* `npm start`
+* https://williamsffc.github.io/Burger-Builder--React.js/
 
 ## **Contribution:**
 * If you want to contribute, please let me know.  
