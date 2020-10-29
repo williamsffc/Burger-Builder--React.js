@@ -6,7 +6,7 @@
 
 
 ## **Link:**
-* https://williamsffc.github.io/Burger-Builder--React.js/
+* https://gentle-reef-50928.herokuapp.com/
 
 ## **Description:**
 * You can create your own burger with the ingredients you want. The app will give show you an order summary and price of the final burger before purchasing. 
